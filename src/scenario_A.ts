@@ -41,5 +41,5 @@ class ParametresJeu {
   const config2 = ParametresJeu.getInstance();
   config2.difficulte = "difficile";
   config2.qualiteGraphique ="élevée"
-  config2.changerLangue("all")
+  config2.changerLangue("Allemand")
   console.log("Config 2 après modif",config2)
